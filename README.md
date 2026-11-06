@@ -38,7 +38,7 @@ This project was created for **learning and experimentation with cryptography**.
 
 MIT License
 
-Copyright (c) 2026 QueQue
+Copyright (c) 2026 Ibex-Wild
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
